@@ -1,4 +1,4 @@
-## Hey 👋 I'm Kannan Singaravelu. Welcome to my page!
+## Hey 👋 I'm Kannan. Welcome to my page!
 
 ## 📩 Latest Blog Posts 
 - [Is India VIX Cheap Or Expensive?](https://medium.com/@kannansi/is-india-vix-cheap-or-expensive-b0cc2a04dec4)
