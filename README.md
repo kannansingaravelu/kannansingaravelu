@@ -5,6 +5,7 @@
 
 ### :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Trade Nifty Index Straddles After Budget?](https://kannansi.medium.com/how-to-trade-nifty-index-straddles-after-budget-3c333ffeee00)
 - [Is India VIX Cheap Or Expensive?](https://kannansi.medium.com/is-india-vix-cheap-or-expensive-b0cc2a04dec4?source=rss-b9ef9ca30a5e------2)
 - [How To Price Barrier Option Using QuantLib-Python?](https://kannansi.medium.com/how-to-price-barrier-option-using-quantlib-python-ee4b1fff2448?source=rss-b9ef9ca30a5e------2)
 - [Can Simple Trend Strategies Work Long Term?](https://kannansi.medium.com/can-simple-trend-strategies-work-long-term-9186a8f14948?source=rss-b9ef9ca30a5e------2)
