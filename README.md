@@ -19,17 +19,6 @@
 
 ---
 
-Wanna sponsor me a coffee?
-
 <a href="https://www.buymeacoffee.com/kannansi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kannansingaravelu&show_icons=true&count_private=true&hide=contribs,prs,issues" alt="Kannan Singaravelu GitHub Stats" />
-
-</details>
-
-[twitter]: https://twitter.com/kannansi
