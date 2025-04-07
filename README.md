@@ -5,6 +5,7 @@
 
 ### :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NASDAQ-100 VaR Breaches: A Precursor to Market Volatility?](https://kannan.beehiiv.com/p/nasdaq-100-var-breaches-a-precursor-to-market-volatility)
 - [How To Trade Nifty Index Straddles After Budget?](https://kannansi.medium.com/how-to-trade-nifty-index-straddles-after-budget-3c333ffeee00)
 - [Is India VIX Cheap Or Expensive?](https://kannansi.medium.com/is-india-vix-cheap-or-expensive-b0cc2a04dec4?source=rss-b9ef9ca30a5e------2)
 - [How To Price Barrier Option Using QuantLib-Python?](https://kannansi.medium.com/how-to-price-barrier-option-using-quantlib-python-ee4b1fff2448?source=rss-b9ef9ca30a5e------2)
@@ -15,7 +16,7 @@
 - [How to Harvest Volatility Risk Premium in India’s Nifty Index](https://kannansi.medium.com/how-to-harvest-volatility-risk-premium-in-indias-nifty-index-f8b320019930?source=rss-b9ef9ca30a5e------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://kannansi.medium.com/)
+➡️ [signup for my newsletter on AI and quant finance..](https://kannan.beehiiv.com/)
 
 ---
 
