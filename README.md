@@ -1,7 +1,6 @@
 ### Hey there 👋 - Welcome to the dev sandbox!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kannansi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkannansi&screen_name=kannansi) [![LinkedIn Follow](https://img.shields.io/badge/Follow-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kannansi/) [![Quantmod Package](https://img.shields.io/badge/Documentation-Quantmod-blue?style=for-the-badge&logo=google-chrome)](https://kannansingaravelu.com/quantmod)
-
+[![LinkedIn Follow](https://img.shields.io/badge/Follow-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kannansi/) [![Quantmod Package](https://img.shields.io/badge/Documentation-Quantmod-blue?style=for-the-badge&logo=google-chrome)](https://kannansingaravelu.com/quantmod) [![PyPI Downloads](https://static.pepy.tech/badge/quantmod)](https://pepy.tech/projects/quantmod)
 
 ### :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
