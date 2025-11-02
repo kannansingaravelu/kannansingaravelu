@@ -5,6 +5,8 @@
 ### :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+[Subscribe to my newsletter](https://kannansi.substack.com)
+
 - [Project NANDA: The Internet of Agents: Ambition or Overreach?](https://kannan.beehiiv.com/p/project-nanda-the-internet-of-agents-ambition-or-overreach)
 - [Say Hello to Quantmod Charting: Built for Quants Who Miss Cufflinks](https://kannan.beehiiv.com/p/quantmod-charting)
 - [Picture Abhi Baaki Hai Mere Dost: Global Chaos & Why This Market Thriller Hasn’t Hit Box Office](https://kannan.beehiiv.com/p/picture-abhi-baaki-hai-mere-dost)
