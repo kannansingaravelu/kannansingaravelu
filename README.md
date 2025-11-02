@@ -5,6 +5,7 @@
 ### :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Project NANDA: The Internet of Agents: Ambition or Overreach?](https://kannan.beehiiv.com/p/project-nanda-the-internet-of-agents-ambition-or-overreach)
 - [Say Hello to Quantmod Charting: Built for Quants Who Miss Cufflinks](https://kannan.beehiiv.com/p/quantmod-charting)
 - [Picture Abhi Baaki Hai Mere Dost: Global Chaos & Why This Market Thriller Hasn’t Hit Box Office](https://kannan.beehiiv.com/p/picture-abhi-baaki-hai-mere-dost)
 - [NASDAQ-100 VaR Breaches: A Precursor to Market Volatility?](https://kannan.beehiiv.com/p/nasdaq-100-var-breaches-a-precursor-to-market-volatility)  
