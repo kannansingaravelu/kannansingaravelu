@@ -15,6 +15,6 @@
 - [Is India VIX Cheap Or Expensive?](https://kannansi.medium.com/is-india-vix-cheap-or-expensive-b0cc2a04dec4?source=rss-b9ef9ca30a5e------2)
 - [How To Price Barrier Option Using QuantLib-Python?](https://kannansi.medium.com/how-to-price-barrier-option-using-quantlib-python-ee4b1fff2448?source=rss-b9ef9ca30a5e------2)
 
-➡️ [Sign up for my newsletter covering Markets, Machines, AI, and more.](https://kannan.beehiiv.com/)
+➡️ [Sign up for my newsletter covering Markets, Machines, AI, and more.](https://kannansi.substack.com)
 
 ---
