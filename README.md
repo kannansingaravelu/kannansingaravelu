@@ -2,10 +2,8 @@
 
 [![LinkedIn Follow](https://img.shields.io/badge/Follow-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kannansi/) [![Quantmod Package](https://img.shields.io/badge/Documentation-Quantmod-blue?style=for-the-badge&logo=google-chrome)](https://kannansingaravelu.com/quantmod) [![PyPI Downloads](https://static.pepy.tech/badge/quantmod)](https://pepy.tech/projects/quantmod)
 
-### :pencil: Latest Blog Posts
+### :pencil: Latest Posts
 <!-- BLOG-POST-LIST:START -->
-
-[Subscribe to my newsletter](https://kannansi.substack.com)
 
 - [2025: The Year I Stopped Using AI](https://kannansi.substack.com/p/2025-the-year-i-stopped-using-ai)
 - [The Rise of AI Councils: Why Karpathy’s LLM-Council Feels Like a Glimpse Into Our AI Future](https://kannansi.substack.com/p/the-rise-of-ai-councils-why-karpathys)
@@ -15,6 +13,6 @@
 - [Picture Abhi Baaki Hai Mere Dost: Global Chaos & Why This Market Thriller Hasn’t Hit Box Office](https://kannansi.substack.com/p/picture-abhi-baaki-hai-mere-dost)
 - [NASDAQ-100 VaR Breaches: A Precursor to Market Volatility?](https://kannansi.substack.com/p/nasdaq-100-var-breaches-a-precursor-to-market-volatility)  
 
-➡️ [Sign up for my newsletter covering Markets, Machines, AI, and more.](https://kannansi.substack.com)
+➡️ [Sign up for Markets & Machine | Signal > Noise](https://kannansi.substack.com)
 
 ---
