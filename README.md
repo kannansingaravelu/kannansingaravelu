@@ -13,6 +13,6 @@
 - [Picture Abhi Baaki Hai Mere Dost: Global Chaos & Why This Market Thriller Hasn’t Hit Box Office](https://kannansi.medium.com/picture-abhi-baaki-hai-mere-dost-009e1eb60a23)
 - [NASDAQ-100 VaR Breaches: A Precursor to Market Volatility?](https://kannansi.medium.com/nasdaq-100-var-breaches-a-precursor-to-market-volatility-f3c001be1463)  
 
-➡️ [Read more at](https://kannansi.medium.com/)
+➡️ [Read more at Medium](https://kannansi.medium.com/)
 
 ---
