@@ -10,9 +10,9 @@
 - [Why MCP Joining the Linux Foundation Might Be a Big Deal for the Future of AI Agents](https://kannansi.substack.com/p/why-mcp-joining-the-linux-foundation)
 - [Project NANDA: The Internet of Agents: Ambition or Overreach?](https://kannansi.substack.com/p/project-nanda-the-internet-of-agents-ambition-or-overreach)
 - [Say Hello to Quantmod Charting: Built for Quants Who Miss Cufflinks](https://kannansi.substack.com/p/quantmod-charting)
-- [Picture Abhi Baaki Hai Mere Dost: Global Chaos & Why This Market Thriller Hasn’t Hit Box Office](https://kannansi.substack.com/p/picture-abhi-baaki-hai-mere-dost)
-- [NASDAQ-100 VaR Breaches: A Precursor to Market Volatility?](https://kannansi.substack.com/p/nasdaq-100-var-breaches-a-precursor-to-market-volatility)  
+- [Picture Abhi Baaki Hai Mere Dost: Global Chaos & Why This Market Thriller Hasn’t Hit Box Office](https://kannansi.medium.com/picture-abhi-baaki-hai-mere-dost-009e1eb60a23)
+- [NASDAQ-100 VaR Breaches: A Precursor to Market Volatility?](https://kannansi.medium.com/nasdaq-100-var-breaches-a-precursor-to-market-volatility-f3c001be1463)  
 
-➡️ [Sign up for Markets & Machine | Signal > Noise](https://kannansi.substack.com)
+➡️ [Read more at]([https://kannansi.substack.com](https://kannansi.medium.com/))
 
 ---
