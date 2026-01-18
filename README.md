@@ -6,13 +6,13 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [2025: The Year I Stopped Using AI](https://kannansi.substack.com/p/2025-the-year-i-stopped-using-ai)
-- [Why MCP Joining the Linux Foundation Might Be a Big Deal for the Future of AI Agents](https://kannansi.substack.com/p/why-mcp-joining-the-linux-foundation)
+- [Why MCP Joining the Linux Foundation Might Be a Big Deal for the Future of AI Agents](https://kannansi.medium.com/why-mcp-joining-the-linux-foundation-might-be-a-big-deal-for-the-future-of-ai-agents-db8d0c3278f7)
 - [The Rise of AI Councils: Why Karpathy’s LLM-Council Feels Like a Glimpse Into Our AI Future](https://kannansi.medium.com/the-rise-of-ai-councils-why-karpathys-llm-council-feels-like-a-glimpse-into-our-ai-future-fffe4029b251)
 - [Project NANDA: The Internet of Agents: Ambition or Overreach?](https://kannansi.medium.com/project-nanda-the-internet-of-agents-ambition-or-overreach-1335c9daf23c)
 - [Say Hello to Quantmod Charting: Built for Quants Who Miss Cufflinks](https://kannansi.medium.com/say-hello-to-quantmod-charting-built-for-quants-who-miss-cufflinks-a306397ed2b2)
 - [Picture Abhi Baaki Hai Mere Dost: Global Chaos & Why This Market Thriller Hasn’t Hit Box Office](https://kannansi.medium.com/picture-abhi-baaki-hai-mere-dost-009e1eb60a23)
 - [NASDAQ-100 VaR Breaches: A Precursor to Market Volatility?](https://kannansi.medium.com/nasdaq-100-var-breaches-a-precursor-to-market-volatility-f3c001be1463)  
 
-➡️ [Read more at Medium](https://kannansi.medium.com/)
+➡️ [Read more ..](https://kannansi.medium.com/)
 
 ---
