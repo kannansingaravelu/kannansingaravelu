@@ -5,7 +5,7 @@
 ### :pencil: Latest Posts
 <!-- BLOG-POST-LIST:START -->
 
-- [2025: The Year I Stopped Using AI](https://kannansi.substack.com/p/2025-the-year-i-stopped-using-ai)
+- [2025: The Year I Stopped Using AI](https://kannansi.medium.com/2025-the-year-i-stopped-using-ai-e1afc69539c2)
 - [Why MCP Joining the Linux Foundation Might Be a Big Deal for the Future of AI Agents](https://kannansi.medium.com/why-mcp-joining-the-linux-foundation-might-be-a-big-deal-for-the-future-of-ai-agents-db8d0c3278f7)
 - [The Rise of AI Councils: Why Karpathy’s LLM-Council Feels Like a Glimpse Into Our AI Future](https://kannansi.medium.com/the-rise-of-ai-councils-why-karpathys-llm-council-feels-like-a-glimpse-into-our-ai-future-fffe4029b251)
 - [Project NANDA: The Internet of Agents: Ambition or Overreach?](https://kannansi.medium.com/project-nanda-the-internet-of-agents-ambition-or-overreach-1335c9daf23c)
