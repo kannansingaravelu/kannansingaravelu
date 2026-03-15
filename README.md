@@ -5,6 +5,7 @@
 ### :pencil: Latest Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [The Fear Gauge Woke Up](https://medium.com/@kannansi/the-fear-gauge-woke-up-048f541b6d42)
 - [Getting Started with QuantmodDB: Your First Market Data Database](https://medium.com/@kannansi/getting-started-with-quantmoddb-your-first-market-data-database-6a288ce02486)
 - [Why Most Quant Projects Fail at Data and How Quantmod Fixes It](https://kannansi.medium.com/why-most-quant-projects-fail-at-data-and-how-quantmod-fixes-it-60a3bb992f83)
 - [2025: The Year I Stopped Using AI](https://kannansi.medium.com/2025-the-year-i-stopped-using-ai-e1afc69539c2)
