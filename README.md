@@ -5,6 +5,7 @@
 ### :pencil: Latest Posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Honsla. Eendhan. Badla.](https://kannansi.medium.com/honsla-eendhan-badla-6f152e1bb349)
 - [The Fear Gauge Woke Up](https://medium.com/@kannansi/the-fear-gauge-woke-up-048f541b6d42)
 - [Getting Started with QuantmodDB: Your First Market Data Database](https://medium.com/@kannansi/getting-started-with-quantmoddb-your-first-market-data-database-6a288ce02486)
 - [Why Most Quant Projects Fail at Data and How Quantmod Fixes It](https://kannansi.medium.com/why-most-quant-projects-fail-at-data-and-how-quantmod-fixes-it-60a3bb992f83)
